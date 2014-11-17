@@ -19,3 +19,5 @@ db.sqlite
 
 .DS_Store
 .vagrant
+.bash_history
+.viminfo
